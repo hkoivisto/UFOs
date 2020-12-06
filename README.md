@@ -22,7 +22,7 @@ The dataset of sightings can be filtered by Date, City, State, Country, and Shap
 
 In order to filter the UFO sightings, a user can enter one or more of the five search criteria in to labeled boxes. Upon change of these boxes, the table will be filtered for the specific combination of search terms. Search entries must match the provided placeholder format.
 
-FOr example, the following is the results of filtering by state 'az':
+For example, the following is the result of filtering by state 'az':
 
 ![az_filter](https://github.com/hkoivisto/UFOs/blob/main/resources/az_filter.png)
 
@@ -30,11 +30,11 @@ FOr example, the following is the results of filtering by state 'az':
 
 #### Website Drawbacks
 
-     - The website has few drawbacks including limited data available, case sensitive search criteria, and no oppurtunity for user-to-user interaction.
+    - The website has few drawbacks including limited data available, case sensitive search criteria, and no oppurtunity for user-to-user interaction.
 
 #### Recommendations for Future Development
 
-      - In future developments, an entry form can be added to allow users to enter UFO encounters that they have witnessed themselves.
-      - Future developments should also include date range filtering. For eample, instead of requiring a user to filter for a specific date, the filter could accept a range of dates. 
-      - The search criteria can be modified to not be case specific.
-      - A forum can be added to allow users to discuss their own sightings with other UFO enthusiasts.
+    - In future developments, an entry form can be added to allow users to enter UFO encounters that they have witnessed themselves.
+    - Future developments should also include date range filtering. For eample, instead of requiring a user to filter for a specific date, the filter could accept a range of dates. 
+    - The search criteria can be modified to not be case specific.
+    - A forum can be added to allow users to discuss their own sightings with other UFO enthusiasts.
