@@ -22,7 +22,9 @@ The dataset of sightings can be filtered by Date, City, State, Country, and Shap
 
 In order to filter the UFO sightings, a user can enter one or more of the five search criteria in to labeled boxes. Upon change of these boxes, the table will be filtered for the specific combination of search terms. Search entries must match the provided placeholder format.
 
+FOr example, the following is the results of filtering by state 'az':
 
+![az_filter](https://github.com/hkoivisto/UFOs/blob/main/resources/az_filter.png)
 
 ## Summary
 
